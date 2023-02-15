@@ -36,4 +36,8 @@ Then, you can follow these steps:
 
 These steps should get you started with running Terraform, but I recommend checking out the Terraform documentation for more information and best practices.
 
-%[https://developer.hashicorp.com/terraform/docs]
+### References
+
+%[https://developer.hashicorp.com/terraform/docs] 
+
+%[https://spacelift.io/blog/terraform-tutorial]
