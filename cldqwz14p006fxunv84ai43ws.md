@@ -40,4 +40,4 @@ These steps should get you started with running Terraform, but I recommend check
 
 %[https://developer.hashicorp.com/terraform/docs] 
 
-%[https://spacelift.io/blog/terraform-tutorial]
+[Terraform Tutorial – Getting Started With Terraform on AWS](https://spacelift.io/blog/terraform-tutorial)
