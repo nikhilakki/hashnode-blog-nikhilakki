@@ -1,4 +1,15 @@
-# Series | Web frameworks in Python - Bottle
+---
+title: "Series | Web frameworks in Python - Bottle"
+seoTitle: "Web frameworks in Python - Bottle"
+seoDescription: "Bottle, a micro-framework built with Python Standard Library and no additional dependency!"
+datePublished: Sat Jan 07 2023 10:05:42 GMT+0000 (Coordinated Universal Time)
+cuid: clcls67b00b3e8jnv9n3a6bh6
+slug: series-web-frameworks-in-python-bottle
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1672810575118/0f60711d-f64f-4575-a2f1-8c67de005c72.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1672811220925/aaec5924-156e-4a5d-9f88-fc618bef736f.jpeg
+tags: python, restful, webserver, microframework, python-bottle
+
+---
 
 **Bottle** is a lightweight web framework for Python. It is designed to be fast and easy to use, and it is well-suited for developing small to medium-sized web applications. Some of the key features of Bottle include:
 
