@@ -1,4 +1,13 @@
-# Series | Web frameworks in Python - FastAPI
+---
+title: "Series | Web frameworks in Python - FastAPI"
+datePublished: Sat Jan 21 2023 03:29:42 GMT+0000 (Coordinated Universal Time)
+cuid: cld5e6vih04cifunv2l4cfc25
+slug: series-web-frameworks-in-python-fastapi
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1673402496795/3bc72b3d-a1c2-4c63-b4b6-f3f581474182.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1673402617632/786f83c5-99a6-4e09-8bda-ade6f979adaa.jpeg
+tags: python, rest-api, fastapi, python-web-framework, uvicorn
+
+---
 
 Here are some of the main features of FastAPI, along with examples of how they can be used:
 
