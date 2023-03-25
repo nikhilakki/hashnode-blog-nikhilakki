@@ -9,11 +9,11 @@ tags: pytorch, google-colab, huggingface, stable-diffusion, generative-ai
 
 ---
 
-### What is Huggingface?
+### What is HuggingFace?
 
 Hugging Face is a company and an open-source software library that specializes in natural language processing (NLP) and deep learning technologies. The company is based in New York and was founded in 2016. The Hugging Face library is built on top of popular deep learning frameworks such as PyTorch & TensorFlow and provides pre-trained models that can be fine-tuned for specific AI tasks. The library also provides an easy-to-use interface for working with popular datasets and allows for easy experimentation with different models and configurations.
 
-### What can we do with these models?
+### Features
 
 Hugging Face provides a variety of tools and resources for natural language processing (NLP) and other AI tasks, including:
 
