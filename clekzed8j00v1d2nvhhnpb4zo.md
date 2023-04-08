@@ -1,4 +1,12 @@
-# Serverless Series | AWS Fargate 101
+---
+title: "Serverless Series | AWS Fargate 101"
+datePublished: Sun Feb 26 2023 05:59:39 GMT+0000 (Coordinated Universal Time)
+cuid: clekzed8j00v1d2nvhhnpb4zo
+slug: serverless-series-aws-fargate-101
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675748753155/046b6526-3243-4aa7-8230-d2c562686c7e.png
+tags: aws, kubernetes, fargate, aws-fargate, serverless-containers
+
+---
 
 ### Intro
 
