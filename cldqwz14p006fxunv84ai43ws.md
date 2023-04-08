@@ -1,4 +1,12 @@
-# Introduction to Terraform
+---
+title: "Introduction to Terraform"
+datePublished: Sun Feb 05 2023 04:58:39 GMT+0000 (Coordinated Universal Time)
+cuid: cldqwz14p006fxunv84ai43ws
+slug: introduction-to-terraform
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675525832014/2e499cce-176f-412d-8c0f-bcd1c0c06f3f.png
+tags: aws, terraform, gcp, iac, infra-as-code
+
+---
 
 Terraform is an infrastructure as code (IAC) tool that enables you to define, configure, and deploy cloud infrastructure using a high-level configuration language. It supports multiple cloud providers, including AWS, GCP, and Azure, as well as on-premises and other infrastructure. Terraform allows you to automate the process of creating, updating, and deleting infrastructure, making it easier to manage your infrastructure consistently and repeatably.
 
