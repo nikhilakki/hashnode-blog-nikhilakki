@@ -1,4 +1,12 @@
-# What is REST?
+---
+title: "What is REST?"
+datePublished: Sun Feb 12 2023 10:54:39 GMT+0000 (Coordinated Universal Time)
+cuid: cle19rt8901hpaunvfpeverht
+slug: what-is-rest
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675540700094/39ea28af-9974-4c4b-b380-66984cb33501.png
+tags: backend, apis, restful, rest-api, what-is-rest
+
+---
 
 REST (Representational State Transfer) is a software architectural style that defines a set of constraints and properties for creating web services. RESTful APIs are APIs that follow this architectural style and use HTTP methods (such as GET, POST, PUT, DELETE, etc.) to manipulate resources identified by URIs (Uniform Resource Identifiers).
 
