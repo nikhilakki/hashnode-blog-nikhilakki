@@ -1,4 +1,14 @@
-# Handling environment variables in Containers (Docker/Podman)
+---
+title: "Handling environment variables in Containers (Docker/Podman)"
+seoTitle: "Handling environment variables in Containers (Docker/Podman)"
+datePublished: Sat Jan 14 2023 10:40:41 GMT+0000 (Coordinated Universal Time)
+cuid: clcvti62d01s9usnv4dxw07rh
+slug: handling-environment-variables-in-containers-dockerpodman
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1672952864230/608588db-df80-4e22-a97a-cd4329a3b0b4.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1672953147774/4adb8198-e90c-42f2-9393-9654f092db8c.jpeg
+tags: microservices, docker, containers, podman, environment-variables
+
+---
 
 Environment variables are an essential way to configure your services. They make it easy to configure services for different environments & deployments.
 
