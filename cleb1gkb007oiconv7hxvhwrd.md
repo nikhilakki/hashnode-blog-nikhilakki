@@ -1,4 +1,12 @@
-# Container Orchestration - Kubernetes 101
+---
+title: "Container Orchestration - Kubernetes 101"
+datePublished: Sun Feb 19 2023 06:59:38 GMT+0000 (Coordinated Universal Time)
+cuid: cleb1gkb007oiconv7hxvhwrd
+slug: container-orchestration-kubernetes-101
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675750107469/32be64fb-28f8-4493-a636-e37aab6f7720.png
+tags: kubernetes, cloud-computing, containers, k8s, container-orchestration
+
+---
 
 ### What is Container management?
 
