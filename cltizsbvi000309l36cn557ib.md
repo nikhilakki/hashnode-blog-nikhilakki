@@ -14,7 +14,7 @@ In the ever-evolving world of artificial intelligence, researchers are constantl
 
 Unlike traditional AI models that rely solely on their training data, RAG equips AIs with a vast knowledge base to draw from. When presented with a question, the AI employs sophisticated search algorithms to retrieve the most pertinent information from its knowledge base. It then feeds this information into a language model, which generates a unique and coherent response tailored to the specific query. By leveraging the retrieved information, RAG allows AIs to tackle a broader range of topics, maintain a consistent persona, and engage in more natural and informative conversations. In this article, we'll explore the inner workings of RAG, its potential use cases, and how it is revolutionizing the way we interact with AI.
 
-### Simpler explanation -
+### Simpler explanation
 
 Imagine you have a super-smart robot friend who knows a lot of things. When you ask the robot a question, it quickly looks through all the information it has learned to find the most helpful parts. Then, using those helpful parts, the robot creates a special answer just for you. This is what RAG does for AI. It helps the AI find the best information and use it to give you a really good answer to your question. With RAG, the AI can talk about many different things and always give you a smart and funny reply.
 
@@ -39,10 +39,6 @@ Retrieval Augmented Generation (RAG) is a powerful technique that combines infor
 
 1. [https://arxiv.org/abs/2005.11401](https://arxiv.org/abs/2005.11401)
     
-2. [https://huggingface.co/docs/transformers/model\_doc/rag](https://huggingface.co/docs/transformers/model_doc/rag)
+2. %[https://huggingface.co/docs/transformers/model_doc/rag] 
     
-3. [https://ai.facebook.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/](https://ai.facebook.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/)
-    
-4. [https://www.microsoft.com/en-us/research/blog/retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks/](https://www.microsoft.com/en-us/research/blog/retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks/)
-    
-5. [https://towardsdatascience.com/retrieval-augmented-generation-rag-for-question-answering-9e932f2d4d83](https://towardsdatascience.com/retrieval-augmented-generation-rag-for-question-answering-9e932f2d4d83)
+3. %[https://ai.facebook.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/]
