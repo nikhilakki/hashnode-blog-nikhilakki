@@ -31,35 +31,35 @@ The wave of digital transformation has made microservices architectures the back
 
 * Example: A user service calling an order service to retrieve a user's orders.
     
-* Bullet: Dapr provides resilient method calls with retries, making inter-service communication reliable and straightforward.
+* Dapr provides resilient method calls with retries, making inter-service communication reliable and straightforward.
     
 
 **State Management**:
 
 * Example: An e-commerce app saving the shopping cart data for users.
     
-* Bullet: With Dapr, developers can write long-running, resilient services by leveraging various databases without deep database knowledge.
+* With Dapr, developers can write long-running, resilient services by leveraging various databases without deep database knowledge.
     
 
 **Publish and Subscribe**:
 
 * Example: A payment service publishing a "payment received" event that multiple services (e.g., order and shipping services) subscribe to.
     
-* Bullet: This model simplifies horizontal scalability and enhances application resilience against failures.
+* This model simplifies horizontal scalability and enhances application resilience against failures.
     
 
 **Resource Bindings**:
 
 * Example: Automatically processing a file as soon as it's dropped in a cloud storage bucket.
     
-* Bullet: Dapr's bindings abstract away the complexities of interacting with external resources, streamlining data flow.
+* Dapr's bindings abstract away the complexities of interacting with external resources, streamlining data flow.
     
 
 **Secrets Management**:
 
 * Example: Safely accessing database credentials without hardcoding them in the application.
     
-* Bullet: Dapr integrates with secret stores, ensuring secure access to sensitive configurations and secrets.
+* Dapr integrates with secret stores, ensuring secure access to sensitive configurations and secrets.
     
 
 ### Conclusion: The Dapr Difference
