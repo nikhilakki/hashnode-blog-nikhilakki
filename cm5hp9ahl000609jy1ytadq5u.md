@@ -68,3 +68,15 @@ Be cautious with this command – it will reset all your GNOME settings to defau
 The beauty of Linux systems like Ubuntu is that they're remarkably resilient. With the right knowledge and tools, most system issues can be resolved without resorting to a complete re-installation. Keep these commands handy, and you'll be prepared for whatever system challenges come your way.
 
 Remember, maintaining a healthy system is an ongoing process. Regular updates, careful package management, and maintaining backups of critical configurations will help prevent the need for restoration in the first place. But when things do go wrong, knowing how to restore your system effectively is an invaluable skill in any developer's toolkit.
+
+**Image Attributions**
+
+1. [Image #1](https://www.freepik.com/free-vector/database-access-data-bank-opening-info-security-information-protection-secured-storage-hacker-cartoon-character-office-with-metal-safe_11669637.htm#fromView=search&page=1&position=1&uuid=aa8a0ecc-ac5d-4d25-91f4-0f6c711f25c8)
+    
+2. [Image #2](https://www.freepik.com/free-vector/programming-concept-illustration_7118755.htm#fromView=search&page=1&position=6&uuid=017e80db-7c00-4617-bc95-40a3bcd92539)
+    
+3. [Ubuntu Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ubuntu-logo-2022.svg/2560px-Ubuntu-logo-2022.svg.png)
+    
+4. [Debian Logo](https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png)
+    
+5. [Linux Mascot](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png)
